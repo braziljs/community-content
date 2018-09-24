@@ -1,6 +1,6 @@
 [WIP]
 
-# BrazilJS Community Content 👨‍👩‍👧‍👧
+# BrazilJS Community Content 👊
 Quer contribuir para a comunidade por meio dos canais da BrazilJS e ainda ganhar benefícios legais?
 
 ## Sobre
