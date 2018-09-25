@@ -33,10 +33,14 @@ Fiz a tradução de alguns artigos relacionados e coloquei no meu Medium. Perceb
 Com a prática, além de conhecer novos autores e aumentar minha rede de contatos, me deu a oportunidade de participar de canais fantástico, como o BrazilJS, que hoje faço questão de compartilhar algo semanalmente"  
 [Eduardo Rabelo](https://github.com/oieduardorabelo), Desenvolvedor brasileiro vivendo na Nova Zelândia
 
+____
+
 > "Eu mantenho um [blog](https://jaydson.com) desde 2008. Escrever é algo que me inspira muito.  
 Saber que de alguma maneira ou outra algo que escrevi impacta a vida das pessoas é muito legal.  
 Já recebi convite para palestrar por conta de textos que escrevi e pelo meu envolvimento e contribuição com a comunidade"  
 [Jaydson Gomes](https://github.com/jaydson), Cofundador da Nasc e da BrazilJS
+
+____
 
 
 ## Como contribuir
