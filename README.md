@@ -48,7 +48,7 @@ Já recebi convite para palestrar por conta de textos que escrevi e pelo meu env
 Como citado acima, a BrazilJS possui uma série de canais onde o objetivo é sempre levar conteúdo relevante e de qualidade para a comunidade.  
 Com este projeto, estamos abrindo para a própria comunidade um meio de utilizar estes canais de forma ativa, gerando assim mais conteúdo.  
 
-### Portal BrazilJS
+### Portal BrazilJS 📰
 
 Uma das formas mais tradicionais de se gerar conteúdo é por meio de artigos técnicos.  
 Artigos são muito úteis e podem ir do básico até o avançado, explorando ferramentas, conceitos, etc.  
@@ -66,10 +66,10 @@ Assuntos que gostaria de abordar:
 Nível do texto (para iniciantes, intermediários ou avançado):
 ```
 
-### YouTube BrazilJS
+### YouTube BrazilJS 🎥
 [Em Breve]
 
-### Newsletter
+### Newsletter 🗞
 Escreveu um post em outro portal, no seu blog pessoal ou no blog da empresa?  
 [Indique](https://github.com/braziljs/weekly/) o conteúdo para a nossa newsletter, dessa maneira você ajuda a espalhar o conteúdo ainda mais.  
 Você também pode nos ajudar indicando conteúdo noticioso ou artigos de outras pessoas.  
