@@ -9,7 +9,7 @@ Então esse talvez seja o projeto/repositório que você estava esperando 🚀
 
 Nossa missão é levar conteúdo de qualidade para a comunidade no Brasil, seja esse conteúdo técnico e avançado, um overview sobre algum framework ou biblioteca, uma notícia do mundo da tecnologia, etc.  
 A [BrazilJS Weekly](/weekly) é um exemplo de como a comunidade Brasileira cria bastante coisa legal, porém, acreditamos que podemos contribuir ainda mais, gerando mais conteúdo de qualidade, em Português, acessível para todos.  
-Atualmente a BrazilJS criar conteúdo para diferentes plataformas e diferentes formatos, atingindo em média __100.000 devs por mês__, levando em consideração todos os canais online e offline: [YouTube](https://youtube.com/braziljs), [Newsletter](https://braziljs.org/#weekly), [Portal](https://braziljs.org), [Eventos](https://braziljs.org/eventos) e redes sociais.  
+Atualmente, a BrazilJS cria conteúdo para diferentes plataformas e diferentes formatos, atingindo em média __100.000 devs por mês__, levando em consideração todos os canais online e offline: [YouTube](https://youtube.com/braziljs), [Newsletter](https://braziljs.org/#weekly), [Portal](https://braziljs.org), [Eventos](https://braziljs.org/eventos) e redes sociais.  
 
 ## Por que contribuir
 Contribuir para a comunidade com a criação de conteúdo pode ser algo muito gratificante, além de trazer reais benefícios para a pessoa que cria.  
