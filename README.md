@@ -42,8 +42,6 @@ Já recebi convite para palestrar por conta de textos que escrevi e pelo meu env
 
 [Jaydson Gomes](https://github.com/jaydson), Cofundador da Nasc e da BrazilJS
 
-____
-
 
 ## Como contribuir
 
