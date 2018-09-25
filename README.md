@@ -1,4 +1,6 @@
-[WIP]
+[WIP][DRAFT]
+Atenção ⚠️⚠️⚠️  
+Este projeto está em construção.  
 
 # BrazilJS Community Content 👊
 
