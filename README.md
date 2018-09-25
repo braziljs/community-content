@@ -77,4 +77,9 @@ Encontrou um post muito legal, uma ferramenta, ou alguma notícia super relevant
 Esse conteúdo pode sair na nossa newsletter semanal 🤓
 
 ## Benefícios
-[WAIT FOR IT]
+Todo conteúdo original possui uma riquesa muito grande e é super valioso para todos envolvidos.  
+Acreditamos que se existe riquesa e é valioso, então deve existir alguma recompensa tangível que não somente os benefícios abstratos citados acima.  
+
+[Em Breve]
+
+
