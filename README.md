@@ -66,5 +66,15 @@ Assuntos que gostaria de abordar:
 Nível do texto (para iniciantes, intermediários ou avançado):
 ```
 
+### YouTube BrazilJS
+[Em Breve]
+
+### Newsletter
+Escreveu um post em outro portal, no seu blog pessoal ou no blog da empresa?  
+[Indique](https://github.com/braziljs/weekly/) o conteúdo para a nossa newsletter, dessa maneira você ajuda a espalhar o conteúdo ainda mais.  
+Você também pode nos ajudar indicando conteúdo noticioso ou artigos de outras pessoas.  
+Encontrou um post muito legal, uma ferramenta, ou alguma notícia super relevante da semana?  
+Esse conteúdo pode sair na nossa newsletter semanal 🤓
+
 ## Benefícios
 [WAIT FOR IT]
