@@ -26,8 +26,17 @@ Mas os benefícios não ficam por aí. Gerar conteúdo pode:
 
 Estes são apenas alguns itens benéficos para a sua carreira profissional.  
 
-[TODO] 
 ### Depoimentos da comunidade
+
+> Ao liderar uma equipe com rotação de desenvolvedores juniores e graduandos, comecei a escrever conteúdo referente ao nosso contexto interno.  
+Fiz a tradução de alguns artigos relacionados e coloquei no meu Medium. Percebendo que mais pessoas estavam compartilhando, fazendo perguntas e agradecendo, coloquei como meta escrever ou traduzir um artigo por semana.  
+Com a prática, além de conhecer novos autores e aumentar minha rede de contatos, me deu a oportunidade de participar de canais fantástico, como o BrazilJS, que hoje faço questão de compartilhar algo semanalmente.  
+- [Eduardo Rabelo](https://github.com/oieduardorabelo)
+
+> Eu mantenho um [blog](https://jaydson.com) desde 2008. Escrever é algo que me inspira muito.  
+Saber que de alguma maneira ou outra algo que escrevi impacta a vida das pessoas é muito legal.  
+Já recebi convite para palestrar por conta de textos que escrevi e pelo meu envolvimento e contribuição com a comunidade.  
+- [Jaydson Gomes](https://github.com/jaydson)
 
 
 ## Como contribuir
