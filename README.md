@@ -58,7 +58,7 @@ O [portal BrazilJS](https://braziljs.org) é uma plataforma de conteúdo em form
 Dessa maneira autores e autoras podem criar artigos em diferentes categorias, diferentes tags, imagens, etc.  
 Utilizamos o conhecido [Wordpress](https://wordpress.org/) como ferramenta.  
 
-Para se tornar um autor ou autora no portal BrazilJS crie uma [issue](https://github.com/braziljs/community-content/issues) aqui neste projeto com o título `[Author Request - SEU NOME E SOBRENOME]` utilizando como base o seguinte markdown:  
+Para se tornar um autor ou autora no portal BrazilJS crie uma [issue](https://github.com/braziljs/community-content/issues) aqui neste projeto com o título `[Author Request - Portal] SEU NOME E SOBRENOME` utilizando como base o seguinte markdown:  
 
 ```
 Nome:   
@@ -69,7 +69,31 @@ Nível do texto (para iniciantes, intermediários ou avançado):
 ```
 
 ### YouTube BrazilJS 🎥
-[Em Breve]
+
+A BrazilJS produz conteúdo em vídeo para o YouTube desde 2012.  
+São mais de 500 vídeos em nosso catálogo contendo palestras em eventos, entrevistas, coberturas e programas originais.  
+Já são quase __6 MILHÕES__ de minutos assistidos e quase __1 MILHÃO__ de views.  
+Em 2019 este número vai crescer ainda mais, com mais programas, mais palestras e mais conteúdo original.  
+
+Em uma iniciativa inédita, estamos abrindo o canal para novos produtores de conteúdo.  
+Sabemos que o YouTube é uma plataforma incrível e que existe a possibilidade de monetização, porém, a realidade para a grande maioria de produtores de conteúdo é que atingir uma grande número de pessoas para conseguir atingir valores satisfatórios é muito difícil.  
+Nem mesmo os bons números da BrazilJS garantem uma receita justa pela geração de conteúdo.  
+Nosso modelo de comercialização é baseado 100% em patrocinadores externos.  
+
+Gostaria de ter um programa no canal da BrazilJS? Quem sabe uma série de vídeo aulas sobre algum assunto do momento?  
+As possibilidades são infinitas.  
+E o mais legal, que tal produzir conteúdo, ajudar a comunidade e ainda receber reais benefícios?  
+
+Tem interesse?
+Para se tornar um apresentador ou apresentadora de algum show no canal BrazilJS crie uma [issue](https://github.com/braziljs/community-content/issues) aqui neste projeto com o título `[Host Request - YouTube] SEU NOME E SOBRENOME` utilizando como base o seguinte markdown:  
+
+```
+Nome:   
+Mini bio (sua bio do Twitter, seu canal no YouTube ou algo do gênero):  
+Email:  
+Assuntos que gostaria de abordar no vídeo:  
+Nível do conteúdo em vídeo (para iniciantes, intermediários ou avançado):
+```
 
 ### Newsletter 🗞
 Escreveu um post em outro portal, no seu blog pessoal ou no blog da empresa?  
