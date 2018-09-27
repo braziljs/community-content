@@ -72,8 +72,10 @@ Nível do texto (para iniciantes, intermediários ou avançado):
 
 A BrazilJS produz conteúdo em vídeo para o YouTube desde 2012.  
 São mais de 500 vídeos em nosso catálogo contendo palestras em eventos, entrevistas, coberturas e programas originais.  
-Já são quase __6 MILHÕES__ de minutos assistidos e quase __1 MILHÃO__ de views.  
+Já são quase __6 MILHÕES__ de minutos assistidos e chegando a __1 MILHÃO__ de views.  
 Em 2019 este número vai crescer ainda mais, com mais programas, mais palestras e mais conteúdo original.  
+
+![YouTube BrazilJS](https://i.imgur.com/tajz6pF.png)
 
 Em uma iniciativa inédita, estamos abrindo o canal para novos produtores de conteúdo.  
 Sabemos que o YouTube é uma plataforma incrível e que existe a possibilidade de monetização, porém, a realidade para a grande maioria de produtores de conteúdo é que atingir uma grande número de pessoas para conseguir atingir valores satisfatórios é muito difícil.  
