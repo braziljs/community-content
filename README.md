@@ -78,7 +78,7 @@ Em 2019 este número vai crescer ainda mais, com mais programas, mais palestras 
 ![YouTube BrazilJS](https://i.imgur.com/tajz6pF.png)
 
 Em uma iniciativa inédita, estamos abrindo o canal para novos produtores de conteúdo.  
-Sabemos que o YouTube é uma plataforma incrível e que existe a possibilidade de monetização, porém, a realidade para a grande maioria de produtores de conteúdo é que atingir uma grande número de pessoas para conseguir atingir valores satisfatórios é muito difícil.  
+Sabemos que o YouTube é uma plataforma incrível e que existe a possibilidade de monetização, porém, a realidade para a grande maioria de produtores de conteúdo é que atingir um grande número de pessoas para conseguir atingir valores satisfatórios é muito difícil.  
 Nem mesmo os bons números da BrazilJS garantem uma receita justa pela geração de conteúdo.  
 Nosso modelo de comercialização é baseado 100% em patrocinadores externos.  
 
