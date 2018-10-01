@@ -105,7 +105,7 @@ Encontrou um post muito legal, uma ferramenta, ou alguma notícia super relevant
 Esse conteúdo pode sair na nossa newsletter semanal 🤓
 
 ## Benefícios
-Todo conteúdo original possui uma riquesa muito grande e é super valioso para todos envolvidos.  
+Todo conteúdo original possui uma riqueza muito grande e é super valioso para todos envolvidos.  
 Acreditamos que se existe riqueza e é valioso, então deve existir alguma recompensa tangível que não somente os benefícios abstratos citados acima.  
 
 [Em Breve]
